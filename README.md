@@ -7,3 +7,13 @@ Cada semana omnistack possui um projeto diferente, na 11ª versão da semana o p
 assim, os usuários do sistema podem visualizar esses incidentes e ajudar as ongs doando algum valor.
 
 Este repositório contém o <i>backend</i> da aplicação, feito em NodeJs e utiliza as seguintes bibliotecas: <a href="https://expressjs.com/pt-br/"><i>Express</i></a> e <a href="http://knexjs.org/"><i>Knex</i></a> com SQlite.
+
+# Rodando o projeto
+
+Primeiro após clonar ou baixar o projeto é necessário instalar as dependencias:
+npm install
+
+Após isso é necessário iniciar o servidor:
+npm start
+
+Após isso o servidor estará pronto para receber acesso aos seus <i>endpoints</i>
