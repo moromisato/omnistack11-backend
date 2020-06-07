@@ -11,9 +11,9 @@ Este repositório contém o <i>backend</i> da aplicação, feito em NodeJs e uti
 # Rodando o projeto
 
 Primeiro após clonar ou baixar o projeto é necessário instalar as dependencias:
-npm install
+<br><i>npm install</i>
 
 Após isso é necessário iniciar o servidor:
-npm start
+<br><i>npm start</i>
 
 Após isso o servidor estará pronto para receber acesso aos seus <i>endpoints</i>
