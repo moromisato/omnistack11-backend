@@ -1,10 +1,14 @@
 # omnistack11-backend
 
+<p align="center">
+<img src="https://github.com/moromisato/omnistack11-frontend-reactjs/blob/master/src/assets/logo.svg" width="150" heigh="93" />
+<br>
 Projeto criado durante a semana oministack 11
+</p>
 
-A semana omnistack é um curso gratuito de uma semana que envolve a criação de uma aplicação completa desde o backend até o <i>frontend</i> e <i>mobile</i>.
+A semana omnistack é um curso gratuito de uma semana que envolve a criação de uma aplicação completa desde o <i>backend</i> até o <i>frontend</i> e <i>mobile</i>.
 Cada semana omnistack possui um projeto diferente, na 11ª versão da semana o projeto proposto é um gerenciador de incidentes para ongs, onde as ongs podem se cadastrar e adicionar seus incidentes que precisam de algum tipo de levantamento de verbas,
-assim, os usuários do sistema podem visualizar esses incidentes e ajudar as ongs doando algum valor.
+assim, os usuários do app <i>mobile</i> podem visualizar esses incidentes e ajudar as ongs entrando em contato com elas para realizar a doação de algum valor.
 
 Este repositório contém o <i>backend</i> da aplicação, feito em NodeJs e utiliza as seguintes bibliotecas:
 
