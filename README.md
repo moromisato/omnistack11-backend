@@ -6,7 +6,12 @@ A semana omnistack é um curso gratuito de uma semana que envolve a criação de
 Cada semana omnistack possui um projeto diferente, na 11ª versão da semana o projeto proposto é um gerenciador de incidentes para ongs, onde as ongs podem se cadastrar e adicionar seus incidentes que precisam de algum tipo de levantamento de verbas,
 assim, os usuários do sistema podem visualizar esses incidentes e ajudar as ongs doando algum valor.
 
-Este repositório contém o <i>backend</i> da aplicação, feito em NodeJs e utiliza as seguintes bibliotecas: <a href="https://expressjs.com/pt-br/"><i>Express</i></a> e <a href="http://knexjs.org/"><i>Knex</i></a> com SQlite.
+Este repositório contém o <i>backend</i> da aplicação, feito em NodeJs e utiliza as seguintes bibliotecas:
+
+  * <a href="https://expressjs.com/pt-br/"><i>Express</i></a>
+  * <a href="http://knexjs.org/"><i>Knex</i></a> com SQlite.
+  * <a href="https://jestjs.io/"><i>Jest</i></a> para realizar testes de integração e unitários
+  * <a href="https://github.com/visionmedia/supertest"><i>Supertest</i></a> para auxiliar nos testes de integração que envolvem requisições http
 
 # Rodando o projeto
 
